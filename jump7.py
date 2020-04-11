@@ -5,3 +5,4 @@ for i in range(1,101):            #从1到100循环
         continue
     else:                         #其他数字
         print(i)                  #打印数字
+##commit edit
